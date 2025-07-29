@@ -61,3 +61,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Created with ❤️ by Praveena K B
+
+
+
+
+<img width="1401" height="669" alt="Image" src="https://github.com/user-attachments/assets/451e7298-d169-4d0d-9351-f2eaba6e903f" />
